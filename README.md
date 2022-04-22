@@ -6,6 +6,7 @@
   
 ## About Verison
   Ai2.DbCore has tow version package . there are for .net framework 4.5.2 and .net core 3.1 .
+  You can find .net framework package 4.52.XX and .net core package 3.1.XX . Please use the latest of each .
 
 ## How to install
    Ai2.DbCore can't be used directly in a project. it should be referenced from Ai2.MySql, Ai2.SQLite, Ai2.SqlServer by nuget package.
