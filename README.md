@@ -3,6 +3,9 @@
 
 ## What is Ai2.DbCore
   Ai2.DbCore is a C# DataBase query engine . It uses Dapper for db execute and queries , simplifies the operation of user transactions. 
+  
+## About Verison
+  Ai2.DbCore has tow version package . there are for .net framework 4.5.2 and .net core 3.1 .
 
 ## How to install
    Ai2.DbCore can't be used directly in a project. it should be referenced from Ai2.MySql, Ai2.SQLite, Ai2.SqlServer by nuget package.
